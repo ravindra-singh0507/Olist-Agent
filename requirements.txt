@@ -1,0 +1,13 @@
+# Placeholder for requirements.txt
+streamlit==1.39.0
+pandas==2.2.2
+SQLAlchemy==2.0.34
+plotly==5.22.0
+python-dotenv==1.0.1
+requests==2.32.3
+pydantic==2.9.2
+sqlparse==0.5.1
+numpy==1.26.4
+
+# optional, but recommended
+duckdb==1.1.1
