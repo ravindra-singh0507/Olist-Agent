@@ -82,8 +82,3 @@ SQL_QUERY_TIMEOUT=20
 - Only allows **SELECT** statements, no DDL/DML
 - Autolimit rows; blocks multiple statements; parameterizes filters
 - Pretty SQL preview + error surfacing
-
-
-## 📦 Deliverables mapping
-- 5–7 min demo: show NL → SQL → chart, memory, utilities
-- GitHub repo: this codebase + README (you’re reading it!)
