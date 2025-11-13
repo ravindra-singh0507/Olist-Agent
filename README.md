@@ -1,4 +1,3 @@
-# Placeholder for README.md
 # GenAI E‑commerce Data Agent (Olist)
 
 
